@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(46, 13, 165);
+}
+
+
+
+#header {
+background-color: rgb(148, 145, 145);
+border: 4px solid black;
+display: flex;
+justify-content: center;
+border-radius: 5px;
+}
+
+#logo_main_page {
+    width: 700px;
+    height: 175px;
+}
